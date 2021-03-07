@@ -1,3 +1,5 @@
-### About DisLogicator
-English: I'm just a random kid who doesn't even know how to code properly but can read it. </br>
-한국어: 시발 여긴 왜들어왔니 
+# Who the hell is DisLogicator?
+i dont have time to learn languages so im a stackoverflow junkie</br>
+so what my code just works lmao</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DisLogicator&layout=compact)](https://github.com/DisLogicator)</br>
+[![DisLogicator](https://github-readme-stats.vercel.app/api?username=DisLogicator&show_icons=true&hide_border=true)](https://github.com/DisLogicator)
